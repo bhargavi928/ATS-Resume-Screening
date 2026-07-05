@@ -1,0 +1,72 @@
+Job Title: Data Scientist
+
+Location: Hyderabad, India
+
+Experience: 0–2 Years
+
+Job Type: Full-Time
+
+Job Summary:
+
+We are looking for a passionate Data Scientist to join our analytics team. The ideal candidate should have strong analytical skills and experience in data analysis, machine learning, and Python programming. You will work with structured and unstructured data to develop predictive models and provide business insights.
+
+Key Responsibilities:
+
+- Collect, clean, and preprocess large datasets.
+- Perform exploratory data analysis (EDA).
+- Build and evaluate machine learning models.
+- Develop predictive analytics solutions.
+- Visualize insights using dashboards and reports.
+- Collaborate with software engineers and business teams.
+- Optimize model performance and accuracy.
+- Document project findings and technical solutions.
+
+Required Skills:
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Matplotlib
+- Seaborn
+- Statistics
+- Git
+- GitHub
+- Jupyter Notebook
+- Problem Solving
+- Communication Skills
+
+Preferred Skills:
+
+- TensorFlow
+- PyTorch
+- NLP
+- Deep Learning
+- Power BI
+- Tableau
+- AWS
+- Docker
+- Linux
+- REST APIs
+
+Education:
+
+Bachelor's degree in Computer Science, Information Technology, Data Science, Artificial Intelligence, or a related field.
+
+Nice to Have:
+
+- Internship or academic project in Data Science or Machine Learning.
+- Experience with Streamlit or Flask.
+- Knowledge of cloud platforms such as AWS or Azure.
+
+Benefits:
+
+- Flexible work environment
+- Learning and development opportunities
+- Mentorship from senior data scientists
+- Health insurance
+- Competitive salary
